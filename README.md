@@ -28,8 +28,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Github](https://your-live-site-url.com)
+- Solution URL:
+  [Frontend Mentor](https://www.frontendmentor.io/solutions/social-link-profile-card-just-htmlcss-_w2f7eXgfF)
+- Live Site URL: [Github](https://dgarance.github.io/social-link-profil/)
 
 ## My process
 
